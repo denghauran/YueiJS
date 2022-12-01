@@ -1,8 +1,8 @@
 {
-  "name": "yueijs",
+  "name": "vdom",
   "version": "1.0.0",
-  "description": "## Install",
-  "main": "index.js",
+  "description": "",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,12 +16,5 @@
   "bugs": {
     "url": "https://github.com/denghauran/YueiJS/issues"
   },
-  "homepage": "https://github.com/denghauran/YueiJS#readme",
-  "devDependencies": {
-    "typescript": "^4.9.3",
-    "webpack": "^5.75.0"
-  },
-  "workspaces": [
-    "vdom"
-  ]
+  "homepage": "https://github.com/denghauran/YueiJS#readme"
 }

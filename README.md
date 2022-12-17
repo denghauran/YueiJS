@@ -1,5 +1,5 @@
 # YueiJS
-Simple JavaScript framework.
+Simple JavaScript Framework.
 
 ## Install
 

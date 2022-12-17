@@ -9,5 +9,5 @@
 ## Contributing
 
 ## License
-
+MIT
 
